@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Relativistic GAN related files
+/images
+.DS_Store
